@@ -25,7 +25,7 @@ It is the most convinient way as you could use both Linux terminal and Windows a
 3. (For all users) Dual boot your OS with Ubuntu. Google key words like "Win10 dual boot Ubuntu". This is a bit tricky and may take a while, but you could enjoy the full utilities of Linux!
 4. (For all users) Use a [portable Ubuntu USB](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0) to boot. It is ligth-weighted and you could bring your Linux everywhere, but the memory is limited.
 5. (Not suggested) Use vitual machines.
-6. (Not suggested) Borrow a laptop with Linux.
+6. (Not suggested) Borrow a laptop uses Linux as operating system.
 
 For 2 and 3, use `<ctrl>+<alt>+T` to open the terminal after booting your Linux.
 
